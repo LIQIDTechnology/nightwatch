@@ -1,5 +1,5 @@
 {
-  "name": "nightwatch",
+  "name": "nightwatch-liqid",
   "description": "A node.js bindings implementation for selenium 2.0/webdriver",
   "version": "0.9.8",
   "author": {
